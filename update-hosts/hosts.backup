@@ -1,0 +1,23 @@
+# Standard host addresses
+127.0.0.1  localhost
+::1        localhost ip6-localhost ip6-loopback
+ff02::1    ip6-allnodes
+ff02::2    ip6-allrouters
+# This host address
+127.0.1.1  cachylensk323
+
+# GitHub Copilot
+45.155.204.190 copilot.microsoft.com
+45.155.204.190 edgeservices.bing.com
+45.155.204.190 rewards.bing.com
+45.155.204.190 sydney.bing.com
+45.155.204.190 xgpuweb.gssv-play-prod.xboxlive.com
+45.155.204.190 xgpuwebf2p.gssv-play-prod.xboxlive.com
+45.155.204.190 xsts.auth.xboxlive.com
+
+# Grok
+45.155.204.190 accounts.x.ai
+45.155.204.190 assets.grok.com
+45.155.204.190 grok.com
+
+

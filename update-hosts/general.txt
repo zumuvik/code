@@ -1,0 +1,14 @@
+# Пример файла с доменами
+# Каждый домен на новой строке
+# Комментарии начинаются с #
+
+# Популярные сервисы
+google.com
+github.com
+stackoverflow.com
+porn.hub
+copilot.microsoft.com
+microsoft.coю
+# Примеры с префиксами (будут автоматически обработаны)
+# https://example.com
+# http://www.example.org
